@@ -1,0 +1,2 @@
+# -Linux-Shell-Script-Lab-Automating-Rocket-Launch-with-Bash
+In this lab, I learned how to automate a sequence of commands into a single shell script, turning a manual process (launching rockets using the rocket CLI) into an efficient, repeatable automation. The lab demonstrated how to create, execute, and configure shell scripts — including permissions, PATH setup, and best practices for script naming.
